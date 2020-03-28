@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ex04 (Liste de données) Match the snapshot 1`] = `
+<div
+  className="ex04"
+>
+  <h1>
+    Ex04 - Propriété d'un composant
+  </h1>
+  <ul>
+    valeur
+  </ul>
+</div>
+`;

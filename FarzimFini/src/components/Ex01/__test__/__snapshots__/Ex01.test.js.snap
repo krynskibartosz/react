@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ex01 (Etat d'un composant: rendu conditionnel 1) Match the snapshot 1`] = `
+<div
+  className="ex01"
+>
+  <h1>
+    Ex01 - Etat d'un composant 1
+  </h1>
+  <button
+    onClick={[Function]}
+  >
+    Compter
+  </button>
+  <p>
+    Il y a eu 
+    0
+     clic
+    .
+  </p>
+</div>
+`;

@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ex05 (Liste avancé de données) Match the snapshot 1`] = `
+<div
+  className="ex05"
+>
+  <h1>
+    Ex05 - Listes avancés
+  </h1>
+  <table>
+    <thead>
+      <tr>
+        <th>
+          ID
+        </th>
+        <th>
+          Count
+        </th>
+        <th>
+          Alive
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          id
+        </td>
+        <td>
+          count
+        </td>
+        <td>
+          alive
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

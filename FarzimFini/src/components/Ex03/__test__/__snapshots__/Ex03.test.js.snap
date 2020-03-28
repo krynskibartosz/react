@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Ex03 (Propriété d'un composant) Match the snapshot 1`] = `
+<div
+  className="ex03"
+>
+  <h1>
+    Ex03 - Propriété d'un composant
+  </h1>
+  <button>
+    Compter
+  </button>
+  <p>
+    Il n'y a pas encore eu de clic 
+  </p>
+</div>
+`;
